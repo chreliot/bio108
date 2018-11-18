@@ -1,0 +1,36 @@
+title = "BIO 108 and 217"
+preserveTaxonomyNames = true
+theme = "hugo-xmin"
+baseURL = "http://chreliot.github.io/bio108/"
+languageCode = "en-us"
+contentDir = "content"
+buildDrafts = false
+footnotereturnlinkcontents = "↩"
+enableEmoji = true
+
+[taxonomies]
+    tag = "tags"
+
+[permalinks]
+    posts = "/posts/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "about"
+    weight = 2
+[[menu.main]]
+    name = "Blackboard"
+    url = "https://hofstra.blackboard.com"
+    weight = 3
+[[menu.main]]
+    name = "HU φ"
+    url = "https://www.hofstra.edu/academics/colleges/hclas/phi/"
+    weight = 4
+
+[params]
+    description = "BIO 108 and 217 Ornithology (Spring 2019)"
+    footer = "&copy; [CC-BY](https://creativecommons.org/licenses/by/4.0/) 2018 [Christopher Eliot](https://people.hofstra.edu/Christopher_H_Eliot/home.html) |   [Mail](mailto:Christopher.H.Eliot@hofstra.edu) | [@chreliot](https://twitter.com/chreliot) | [@HofstraPhil](https://twitter.com/HofstraPhil) "
