@@ -1,7 +1,0 @@
----
-title: Home
-date: 2018-11-18T12:02:10-04:00
-draft: false
----
-
-# Bio 108 & 217 Ornithology
