@@ -10,5 +10,14 @@
 	<atom:link href="http://chreliot.github.io/bio108/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>testtag</title>
+      <link>http://chreliot.github.io/bio108/tags/testtag/</link>
+      <pubDate>Sun, 18 Nov 2018 11:50:03 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/bio108/tags/testtag/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

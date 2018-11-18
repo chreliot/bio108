@@ -3,8 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://chreliot.github.io/bio108/posts/testpost/</loc>
+    <lastmod>2018-11-18T11:50:03-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://chreliot.github.io/bio108/</loc>
     <lastmod>2018-11-18T12:02:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/posts/</loc>
+    <lastmod>2018-11-18T11:50:03-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -14,6 +25,12 @@
   
   <url>
     <loc>http://chreliot.github.io/bio108/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/tags/testtag/</loc>
+    <lastmod>2018-11-18T11:50:03-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
