@@ -26,10 +26,10 @@ enableEmoji = true
     name = "Blackboard"
     url = "https://hofstra.blackboard.com"
     weight = 3
-[[menu.main]]
-    name = "HU φ"
-    url = "https://www.hofstra.edu/academics/colleges/hclas/phi/"
-    weight = 4
+# [[menu.main]]
+#    name = "HU φ"
+#    url = "https://www.hofstra.edu/academics/colleges/hclas/phi/"
+#    weight = 4
 
 [params]
     description = "BIO 108 and 217 Ornithology (Spring 2019)"
