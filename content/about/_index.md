@@ -2,19 +2,17 @@
 title: Using this site
 ---
 
-This site is for students in PHI 10 “Introduction to Philosophy” (Spring 2018) at Hofstra University. There are two sites for this course. This site you're reading now presents the reading assignments and related content. Let's  call this “the website.” The other site, the Blackboard site, is available through the password-protected Hofstra Portal. The Blackboard site hosts the syllabus, writing handout, test questions, and writing assignments. Blackboard is also where you submit your writing assignments, and it allows you to access your comments and grades and a few other things. There is a link to Blackboard at the top of this (and every) page.
+This site is for students in Bio 108 and 217 “Ornithology” (Spring 2019) at Hofstra University. It's for my (Eliot's) Friday and lab sections of the course.
+
+In addition to this site, I also use the course's Blackboard site, which is available through the password-protected Hofstra Portal. The reason to put content in both places is that this site is easy for you to access and for me to publish to, while the Blackboard site is good for hosting password-protected information like grades. There is a link to Blackboard at the top of this (and every) page.
 
 ### Structure of this site
 
-The course involves about ten topic units. There will be a post for each topic, and it will be visible by the end of the previous topic. The topics are all listed on the Home page. They are numbered sequentially (Topic 1, Topic 2, etc.). Each topic post has three sections:
 
- 1. **Reading** - identifies the required reading assignments for the topic and tells you how to find them.
- 2. **See also** - lists other sources you might want to look at. These are presented for your interest, not required.
- 3. **Afternotes** - lists anything that came up during or after our class discussion.
 
 ### Share things
 
-Students regularly send me things they find that are related to our topics, and you can too. I can embed YouTube, Vimeo, Instagram, Twitter, and other sources here, and link elsewhere. (Simply avoid offensive, obscene, illegal.)
+
 
 ### Technical acknowledgment
 
