@@ -6,10 +6,19 @@
     <description>Recent content in instructions on BIO 108 and 217</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Nov 2018 14:32:01 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 11 Dec 2018 13:15:19 -0500</lastBuildDate>
     
 	<atom:link href="http://chreliot.github.io/bio108/tags/instructions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using eBird</title>
+      <link>http://chreliot.github.io/bio108/posts/using-ebird/</link>
+      <pubDate>Tue, 11 Dec 2018 13:15:19 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/bio108/posts/using-ebird/</guid>
+      <description>What is eBird?  eBird is the world’s largest biodiversity-related citizen science project, with more than 100 million bird sightings contributed each year by eBirders around the world. A collaborative enterprise with hundreds of partner organizations, thousands of regional experts, and hundreds of thousands of users, eBird is managed by the Cornell Lab of Ornithology. […] eBird data are … freely accessible to anyone. eBird data have been used in hundreds of conservation decisions and peer-reviewed papers, and [in] thousands of student projects; and [they] help inform bird research worldwide.</description>
+    </item>
     
     <item>
       <title>Field Trip Instructions</title>
