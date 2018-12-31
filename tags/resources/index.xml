@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resources on BIO 108 and 217</title>
+    <link>http://chreliot.github.io/bio108/tags/resources/</link>
+    <description>Recent content in resources on BIO 108 and 217</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Dec 2018 15:40:05 -0500</lastBuildDate>
+    
+	<atom:link href="http://chreliot.github.io/bio108/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Online Identification Resources</title>
+      <link>http://chreliot.github.io/bio108/posts/online-identification-resources/</link>
+      <pubDate>Mon, 03 Dec 2018 15:40:05 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/bio108/posts/online-identification-resources/</guid>
+      <description>([Eliot](http://people.hofstra.edu/Christopher_H_Eliot/home.html), BIO 108/217, Spring 2015) -- These are resources I think are useful for general/visual bird identification. You might find them helpful either for this class or for your continued learning and field-work.
+Free field guides  All About Birds at Cornell includes accurate information and reliably-identified photos of birds at various ages and plumage-types. National Audubon Society&amp;rsquo;s Guide to North American Birds is another good online guide with both photos and drawings by David Sibley.</description>
+    </item>
+    
+    <item>
+      <title>Recommended Books</title>
+      <link>http://chreliot.github.io/bio108/posts/recommended-books/</link>
+      <pubDate>Fri, 23 Nov 2018 10:40:01 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/bio108/posts/recommended-books/</guid>
+      <description>It&amp;rsquo;s quite recent that some excellent bird-identification materials have moved online. Ten years ago there was approximately nothing. Now there are some very good ones. Still, much of the best and most useful information is available only in books. You won&amp;rsquo;t need these for the course, but as you&amp;rsquo;re learning you may want to look at them.
+So, besides your Big Sibley, some of the books I value most are:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>assignments on BIO 108 and 217</title>
+    <link>http://chreliot.github.io/bio108/tags/assignments/</link>
+    <description>Recent content in assignments on BIO 108 and 217</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Nov 2018 14:33:01 -0500</lastBuildDate>
+    
+	<atom:link href="http://chreliot.github.io/bio108/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Independent Observation Assignment</title>
+      <link>http://chreliot.github.io/bio108/posts/independent-observation-assignment/</link>
+      <pubDate>Wed, 21 Nov 2018 14:33:01 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/bio108/posts/independent-observation-assignment/</guid>
+      <description>Task Observe birds independently for a cumulative 80 minutes minimum, and submit an eBird checklist (or checklists) documenting what you found.
+Due Email links to your checklist(s) to me by Monday May 13.
+Instructions Sometime during the semester, or several times, you should observe and count birds on your own outside of class for a combined minimum of 80 minutes. It can be one continuous count, or as many as eight different times and places.</description>
+    </item>
+    
+  </channel>
+</rss>

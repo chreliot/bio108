@@ -3,8 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chreliot.github.io/bio108/posts/testpost/</loc>
-    <lastmod>2018-11-18T11:50:03-05:00</lastmod>
+    <loc>http://chreliot.github.io/bio108/posts/online-identification-resources/</loc>
+    <lastmod>2018-12-03T15:40:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/posts/recommended-books/</loc>
+    <lastmod>2018-11-23T10:40:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/posts/independent-observation-assignment/</loc>
+    <lastmod>2018-11-21T14:33:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/posts/field-trip-instructions/</loc>
+    <lastmod>2018-11-21T14:32:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/posts/optional-materials/</loc>
+    <lastmod>2018-11-18T16:00:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/posts/required-materials/</loc>
+    <lastmod>2018-11-18T15:00:12-05:00</lastmod>
   </url>
   
   <url>
@@ -14,7 +39,7 @@
   
   <url>
     <loc>http://chreliot.github.io/bio108/posts/</loc>
-    <lastmod>2018-11-18T11:50:03-05:00</lastmod>
+    <lastmod>2018-12-03T15:40:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -28,8 +53,26 @@
   </url>
   
   <url>
-    <loc>http://chreliot.github.io/bio108/tags/testtag/</loc>
-    <lastmod>2018-11-18T11:50:03-05:00</lastmod>
+    <loc>http://chreliot.github.io/bio108/tags/assignments/</loc>
+    <lastmod>2018-11-21T14:33:01-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/tags/instructions/</loc>
+    <lastmod>2018-11-21T14:32:01-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/tags/labs/</loc>
+    <lastmod>2018-11-21T14:32:01-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/tags/resources/</loc>
+    <lastmod>2018-12-03T15:40:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
