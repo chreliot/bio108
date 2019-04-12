@@ -6,16 +6,17 @@
     <description>Recent content in Tags on BIO 108 and 217</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2019 20:33:43 -0400</lastBuildDate>
     
 	<atom:link href="http://chreliot.github.io/bio108/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>assignments</title>
-      <link>http://chreliot.github.io/bio108/tags/assignments/</link>
-      <pubDate>Sat, 09 Feb 2019 10:01:31 -0500</pubDate>
+      <title>labs</title>
+      <link>http://chreliot.github.io/bio108/tags/labs/</link>
+      <pubDate>Thu, 11 Apr 2019 20:33:43 -0400</pubDate>
       
-      <guid>http://chreliot.github.io/bio108/tags/assignments/</guid>
+      <guid>http://chreliot.github.io/bio108/tags/labs/</guid>
       <description></description>
     </item>
     
@@ -38,11 +39,11 @@
     </item>
     
     <item>
-      <title>labs</title>
-      <link>http://chreliot.github.io/bio108/tags/labs/</link>
-      <pubDate>Fri, 05 Apr 2019 05:46:17 -0400</pubDate>
+      <title>assignments</title>
+      <link>http://chreliot.github.io/bio108/tags/assignments/</link>
+      <pubDate>Sat, 09 Feb 2019 10:01:31 -0500</pubDate>
       
-      <guid>http://chreliot.github.io/bio108/tags/labs/</guid>
+      <guid>http://chreliot.github.io/bio108/tags/assignments/</guid>
       <description></description>
     </item>
     
