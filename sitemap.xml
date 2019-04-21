@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://chreliot.github.io/bio108/labs/apr-19-lab/</loc>
+    <lastmod>2019-04-20T21:53:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/labs/</loc>
+    <lastmod>2019-04-20T21:53:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/tags/</loc>
+    <lastmod>2019-04-20T21:53:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/tags/labs/</loc>
+    <lastmod>2019-04-20T21:53:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/classes/apr-19-class/</loc>
+    <lastmod>2019-04-20T18:35:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/classes/</loc>
+    <lastmod>2019-04-20T18:35:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/tags/classes/</loc>
+    <lastmod>2019-04-20T18:35:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://chreliot.github.io/bio108/posts/apr-12-class/</loc>
     <lastmod>2019-04-13T11:47:33-04:00</lastmod>
   </url>
@@ -14,26 +54,8 @@
   </url>
   
   <url>
-    <loc>http://chreliot.github.io/bio108/tags/</loc>
-    <lastmod>2019-04-13T11:47:33-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chreliot.github.io/bio108/tags/classes/</loc>
-    <lastmod>2019-04-13T11:47:33-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://chreliot.github.io/bio108/posts/apr-12-lab/</loc>
     <lastmod>2019-04-11T20:33:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chreliot.github.io/bio108/tags/labs/</loc>
-    <lastmod>2019-04-11T20:33:43-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
