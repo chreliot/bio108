@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>http://chreliot.github.io/bio108/labs/apr-19-lab/</loc>
-    <lastmod>2019-04-20T21:53:57-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://chreliot.github.io/bio108/classes/apr-19-class/</loc>
     <lastmod>2019-04-20T21:35:45-04:00</lastmod>
   </url>
@@ -62,6 +57,11 @@
     <loc>http://chreliot.github.io/bio108/tags/classes/</loc>
     <lastmod>2019-04-20T21:35:45-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/labs/apr-19-lab/</loc>
+    <lastmod>2019-04-19T21:53:57-04:00</lastmod>
   </url>
   
   <url>
