@@ -6,10 +6,20 @@
     <description>Recent content in Posts on BIO 108 and 217</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2019 11:47:33 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 12:53:58 -0400</lastBuildDate>
     
 	<atom:link href="http://chreliot.github.io/bio108/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Observed Species</title>
+      <link>http://chreliot.github.io/bio108/posts/observed-species/</link>
+      <pubDate>Tue, 30 Apr 2019 12:53:58 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/bio108/posts/observed-species/</guid>
+      <description>This is a list, in taxonomic order, of all the species we&amp;rsquo;ve observed on our lab trips this semester, up to April 26 (with two trips left to go!). Not everyone saw all the birds; this includes all the species that I observed and was able to point out to you, so that at least some students were able to observe them.
+With two trips left to go, I count 103 species.</description>
+    </item>
     
     <item>
       <title>Apr 12 Class</title>
@@ -354,16 +364,6 @@ Microfiber cloth Especially if you wear glasses, but also for your binoculars, b
 Book The identification guide you need for this course is: The Sibley Guide to Birds, 2nd edition (2014), by David Allen Sibley, published Alfred A. Knopf. ISBN: 9780307957900 (Worldcat) .
 You may want to bring the book to class; it&amp;rsquo;s optional. You do not need to bring the book to labs.
 Binoculars (yours or ours) If you already have binoculars or can borrow some from someone for the duration of the course, they will be useful.</description>
-    </item>
-    
-    <item>
-      <title>Observed Species</title>
-      <link>http://chreliot.github.io/bio108/posts/observed-species/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://chreliot.github.io/bio108/posts/observed-species/</guid>
-      <description>This is a list, in taxonomic order, of all the species we&amp;rsquo;ve observed on our lab trips this semester, up to April 26 (with two trips left to go!). Not everyone saw all the birds; this includes all the species that I observed and was able to point out to you, so that at least some students were able to observe them.
-With two trips left to go, I count 103 species.</description>
     </item>
     
   </channel>

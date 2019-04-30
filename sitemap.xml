@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://chreliot.github.io/bio108/posts/observed-species/</loc>
+    <lastmod>2019-04-30T12:53:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/bio108/posts/</loc>
+    <lastmod>2019-04-30T12:53:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://chreliot.github.io/bio108/classes/</loc>
     <lastmod>2019-04-30T12:42:03-04:00</lastmod>
     <priority>0</priority>
@@ -65,12 +76,6 @@
   <url>
     <loc>http://chreliot.github.io/bio108/posts/apr-12-class/</loc>
     <lastmod>2019-04-13T11:47:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chreliot.github.io/bio108/posts/</loc>
-    <lastmod>2019-04-13T11:47:33-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -254,10 +259,6 @@
   <url>
     <loc>http://chreliot.github.io/bio108/posts/required-materials/</loc>
     <lastmod>2018-11-18T15:00:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chreliot.github.io/bio108/posts/observed-species/</loc>
   </url>
   
 </urlset>
